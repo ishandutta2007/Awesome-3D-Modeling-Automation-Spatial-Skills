@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Automation-Spatial-Skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,7 +67,7 @@ The table below catalogs notable SaaS and commercial hosted platforms across bro
 
 Below is the definitive catalog of open-source projects for 3D modeling engines, boundary-representation (B-Rep) CAD frameworks, mesh decimation utilities, and AI Agent spatial reasoning toolkits. 
 
-Repositories are **strictly sorted by GitHub star counts in descending order**. Click on any star badge to inspect real-time stargazers.
+Repositories are **strictly sorted by GitHub Stars_Counts in descending order**. Click on any Stars_Badge to inspect real-time stargazers.
 
 ### Top Open-Source 3D Engines & Automation Repositories
 
@@ -123,7 +123,7 @@ We welcome contributions from the 3D automation and AI spatial agent community!
 
 1. **Fork the repository** to your personal GitHub account.
 2. **Create a descriptive feature branch** (`git checkout -b add-my-spatial-tool`).
-3. **Add or edit entries** in `README.md` maintaining the existing table formatting, accurate star count links, explicit pricing structures, and free tier limits.
+3. **Add or edit entries** in `README.md` maintaining the existing table formatting, accurate Stars_Count links, explicit pricing structures, and free tier limits.
 4. **Follow our directory guidelines**: Always link official websites or repository URLs with factual, hype-free summaries.
 5. **Submit a Pull Request** with a brief summary explaining why the platform or open-source tool benefits developers building automated 3D pipelines.
 
